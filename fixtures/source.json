@@ -1,0 +1,8 @@
+{
+  "content": "alpha\nbeta\n",
+  "version": 1,
+  "finalFail": false,
+  "replaceDuring": false,
+  "pasvHost": "127,0,0,1",
+  "finalDelay": 20
+}
