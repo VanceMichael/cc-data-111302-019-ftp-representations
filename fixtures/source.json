@@ -1,8 +1,16 @@
 {
+  "finalDelay": 15,
+  "pasvHost": "127,0,0,1",
   "content": "alpha\nbeta\n",
   "version": 1,
   "finalFail": false,
   "replaceDuring": false,
-  "pasvHost": "127,0,0,1",
-  "finalDelay": 20
+  "files": {
+    "sample.txt": {
+      "content": "alpha\nbeta\n",
+      "mtime": "20261113000001",
+      "version": 1
+    }
+  },
+  "faults": {}
 }

@@ -10,6 +10,8 @@
     "test": "node --test",
     "build": "node scripts/check.mjs",
     "start": "node src/serve.mjs",
-    "demo": "node src/demo.mjs"
+    "demo": "node src/demo.mjs",
+    "ftp": "node src/ftp-cli.mjs",
+    "collect": "node src/collect-cli.mjs"
   }
 }
